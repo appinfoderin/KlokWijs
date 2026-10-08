@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 248 256" role="img" aria-label="KlokWijs klok">
+  <circle cx="120" cy="127" r="112" fill="#1B1A33"/>
+  <circle cx="120" cy="120" r="112" fill="#FF4B3E" stroke="#1B1A33" stroke-width="5"/>
+  <circle cx="120" cy="120" r="97" fill="#FFFDF7" stroke="#1B1A33" stroke-width="4"/>
+  <path d="M120 40L120 28M160 50.7L166 40.3M189.3 80L199.7 74M200 120L212 120M189.3 160L199.7 166M160 189.3L166 199.7M120 200L120 212M80 189.3L74 199.7M50.7 160L40.3 166M40 120L28 120M50.7 80L40.3 74M80 50.7L74 40.3" stroke="#1B1A33" stroke-width="5" stroke-linecap="round"/>
+  <g transform="rotate(305 120 120)">
+    <rect x="112" y="62" width="16" height="68" rx="8" fill="#1B1A33"/>
+  </g>
+  <g transform="rotate(60 120 120)">
+    <path d="M120 28 L128 44 L127 128 Q120 135 113 128 L112 44Z" fill="#F7A8C4" stroke="#1B1A33" stroke-width="3.5" stroke-linejoin="round"/>
+  </g>
+  <circle cx="120" cy="120" r="10" fill="#FFC61A" stroke="#1B1A33" stroke-width="3.5"/>
+</svg>
